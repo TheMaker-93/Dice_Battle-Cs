@@ -1,0 +1,12 @@
+H:\FonamentsProgramacio\PA-3\PA_3_ChangeNameOfFolder\01_DiceBattle\bin\Debug\01_DiceBattle.exe
+H:\FonamentsProgramacio\PA-3\PA_3_ChangeNameOfFolder\01_DiceBattle\bin\Debug\01_DiceBattle.pdb
+H:\FonamentsProgramacio\PA-3\PA_3_ChangeNameOfFolder\01_DiceBattle\obj\x86\Debug\01_DiceBattle.exe
+H:\FonamentsProgramacio\PA-3\PA_3_ChangeNameOfFolder\01_DiceBattle\obj\x86\Debug\01_DiceBattle.pdb
+S:\_TECNOCAMPUS\FonamentsProgramacio\PA-3\PA_3_ChangeNameOfFolder\01_DiceBattle\bin\Debug\01_DiceBattle.exe
+S:\_TECNOCAMPUS\FonamentsProgramacio\PA-3\PA_3_ChangeNameOfFolder\01_DiceBattle\bin\Debug\01_DiceBattle.pdb
+S:\_TECNOCAMPUS\FonamentsProgramacio\PA-3\PA_3_ChangeNameOfFolder\01_DiceBattle\obj\x86\Debug\01_DiceBattle.exe
+S:\_TECNOCAMPUS\FonamentsProgramacio\PA-3\PA_3_ChangeNameOfFolder\01_DiceBattle\obj\x86\Debug\01_DiceBattle.pdb
+S:\_TECNOCAMPUS\FonamentsProgramacio\PA-3\Moreno_Bernal_Daniel\01_DiceBattle\bin\Debug\01_DiceBattle.exe
+S:\_TECNOCAMPUS\FonamentsProgramacio\PA-3\Moreno_Bernal_Daniel\01_DiceBattle\bin\Debug\01_DiceBattle.pdb
+S:\_TECNOCAMPUS\FonamentsProgramacio\PA-3\Moreno_Bernal_Daniel\01_DiceBattle\obj\x86\Debug\01_DiceBattle.exe
+S:\_TECNOCAMPUS\FonamentsProgramacio\PA-3\Moreno_Bernal_Daniel\01_DiceBattle\obj\x86\Debug\01_DiceBattle.pdb
